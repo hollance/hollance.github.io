@@ -1,0 +1,11 @@
+# Site settings
+title: Manipulating symbols for fun and profit
+description: 
+url: http://hollance.github.io
+twitter_username: mhollemans
+github_username: hollance
+highlighter: pygments
+
+# Build settings
+markdown: kramdown
+#permalink: pretty
