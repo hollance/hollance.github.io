@@ -8,4 +8,4 @@ highlighter: pygments
 
 # Build settings
 markdown: kramdown
-#permalink: pretty
+permalink: /:year/:month/:day/:title/
